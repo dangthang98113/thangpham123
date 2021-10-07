@@ -1,2 +1,6 @@
 abcde
+<<<<<<< HEAD
 line2a
+=======
+line2b
+>>>>>>> 76d4f848f25dee617b99f82c8e00be0fe334a185
